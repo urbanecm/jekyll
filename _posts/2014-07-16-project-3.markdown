@@ -3,7 +3,6 @@ title: Pro rodiče
 subtitle: Informace pro všechny rodiče aspíků
 layout: default
 modal-id: 3
-date: 2014-07-16
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
