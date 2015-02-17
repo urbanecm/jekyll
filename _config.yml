@@ -19,15 +19,15 @@ people:
   position: Administrátor
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/martin_urbanec
     - title: facebook
-      url: #
+      url: https://www.facebook.com/martin.urbanec.545
     - title: stack-overflow
       url: #
 
 - name: Depresorka
   pic: 1
-  position: Lead Marketer
+  position: Redaktor
   social:
     - title: twitter
       url: #
@@ -50,9 +50,9 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/aspie12321
   - title: facebook
-    url:
+    url: http://facebook.com/aspie12321
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket 
