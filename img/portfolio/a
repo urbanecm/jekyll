@@ -1,0 +1,3 @@
+\begin{tikzpicture}[ ]
+\node (x) at (0,0) {Pro odborn\'iky};
+\end{tikzpicture}
