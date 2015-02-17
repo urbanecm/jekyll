@@ -32,7 +32,7 @@ people:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/profile.php?id=100008936071964&fref=ts
     - title: linkedin
       url: #
 
@@ -43,7 +43,7 @@ people:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/michal.obecny1?fref=ts
     - title: google-plus
       url: #
 
@@ -54,16 +54,15 @@ social:
   - title: facebook
     url: http://facebook.com/aspie12321
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: #
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: #
   - title: github
-    url: http://github.com/jekyll
+    url: #
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: #
 
 # Build settings
 markdown: kramdown
