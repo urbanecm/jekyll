@@ -23,19 +23,23 @@ people:
       url: https://twitter.com/martin_urbanec
     - title: facebook
       url: https://www.facebook.com/martin.urbanec.545
-    - title: stack-overflow
-      url: #
+ #   - title: stack-overflow
+#      url: #
 
 - name: Depresorka
   pic: 1
   position: Redaktor
   social:
-    - title: twitter
-      url: #
+#    - title: twitter
+#      url: #
     - title: facebook
       url: https://www.facebook.com/profile.php?id=100008936071964&fref=ts
-    - title: linkedin
-      url: #
+ #   - title: linkedin
+#      url: #
+
+- name: Tomáš Kourek
+  pic: 1
+  position: Redaktor
 
 - name: Michal Roškaňuk
   pic: 1
@@ -54,16 +58,16 @@ social:
     url: http://twitter.com/aspie12321
   - title: facebook
     url: http://facebook.com/aspie12321
-  - title: stack-overflow
-    url: #
-  - title: bitbucket 
-    url: #
-  - title: github
-    url: #
+#  - title: stack-overflow
+#    url: #
+#  - title: bitbucket 
+#    url: #
+#  - title: github
+#    url: #
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: #
+#address:
+#  - line: #
 
 # Build settings
 markdown: kramdown
