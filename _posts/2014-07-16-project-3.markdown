@@ -3,8 +3,8 @@ title: Pro rodiče
 subtitle: Informace pro všechny rodiče aspíků
 layout: default
 modal-id: 3
-img: golden.png
-thumbnail: golden-thumbnail.png
+#img: golden.png
+#thumbnail: golden-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
