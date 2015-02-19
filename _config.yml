@@ -23,19 +23,13 @@ people:
       url: https://twitter.com/martin_urbanec
     - title: facebook
       url: https://www.facebook.com/martin.urbanec.545
- #   - title: stack-overflow
-#      url: #
 
 - name: Depresorka
   pic: 1
   position: Redaktor
   social:
-#    - title: twitter
-#      url: #
     - title: facebook
       url: https://www.facebook.com/profile.php?id=100008936071964&fref=ts
- #   - title: linkedin
-#      url: #
 
 - name: Tomáš Kourek
   pic: 1
@@ -45,12 +39,8 @@ people:
   pic: 1
   position: Poradce
   social:
-    - title: twitter
-      url: #
     - title: facebook
       url: https://www.facebook.com/michal.obecny1?fref=ts
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
