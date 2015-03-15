@@ -1,5 +1,5 @@
 ---
-title: Zprávičky
+title: Co vyšlo jinde?
 subtitle: Krátká upozonění na nové články jiných webů
 layout: default
 modal-id: 4

@@ -1,6 +1,6 @@
 ---
 title: Další projekty
-subtitle: Krátká upozonění na nové články jiných webů
+subtitle: Co sledovat?
 layout: default
 modal-id: 5
 date: 2014-07-15
