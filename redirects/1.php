@@ -1,8 +1,3 @@
-<html>
-	<head>
-		<meta charset="UTF-8">
-	</head>
-	<body>
-		<h2>Připravuje se</h2>
-	</body>
-</html>
+<?php
+header("Location: http://asperger.cz/joomla/index.php/24-pro-odborniky");
+?>
