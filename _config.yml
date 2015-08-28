@@ -27,6 +27,7 @@ people:
 - name: Depresorka
   pic: 1
   position: Redaktor
+  email: majda@asperger.cz
   social:
     - title: facebook
       url: https://www.facebook.com/profile.php?id=100008936071964&fref=ts
@@ -34,6 +35,7 @@ people:
 - name: Tomáš Kourek
   pic: 1
   position: Redaktor
+  email: tomas@asperger.cz
 
 #- name: Michal Roškaňuk
 #  pic: 1
@@ -44,6 +46,7 @@ people:
 - name: Michal Struhár
   pic: 1
   position: Poradce
+  email: michal@asperger.cz
   social:
     - title: facebook
       url: https://www.facebook.com/michal.struhar.79?fref=ufi
