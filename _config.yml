@@ -15,7 +15,7 @@ color:
 # Team names, titles and social links
 people:
 - name: Martin Urbanec
-  pic: 1
+  pic: 3
   position: Administrátor
   email: martin@asperger.cz
   social:
@@ -36,13 +36,15 @@ people:
   pic: 1
   position: Redaktor
   email: tomas@asperger.cz
-
-#- name: Michal Roškaňuk
-#  pic: 1
-#  position: Poradce
 #  social:
 #    - title: facebook
-#      url: https://www.facebook.com/michal.obecny1?fref=ts
+#    url: url
+
+- name: Adam Naicler
+  pic: 1
+  pisition: Moderátor
+  email: adam@asperger.cz
+
 - name: Michal Struhár
   pic: 2
   position: Poradce
