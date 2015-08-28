@@ -4,8 +4,8 @@ subtitle: Krátká upozonění na nové články jiných webů
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: rodice.png
+thumbnail: rodice.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

@@ -4,8 +4,8 @@ subtitle: Texty určené psychologům, psychiatrům a nejen jim
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: a.png
-thumbnail: a.png
+img: odbornici.png
+thumbnail: odbornici.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
