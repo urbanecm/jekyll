@@ -1,3 +1,3 @@
 <?php
-header("Location: http://asperger.cz/index.php/18-zpravicky")
+header("Location: http://asperger.cz/joomla/index.php/26-co-vyslo-jinde")
 ?>
