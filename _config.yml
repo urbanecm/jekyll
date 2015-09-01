@@ -25,15 +25,15 @@ people:
       url: https://www.facebook.com/martin.urbanec.545
 
 - name: Depresorka
-  pic: 1
-  position: Redaktor
+  pic: 4
+  positionn: Redaktor
   email: majda@asperger.cz
   social:
     - title: facebook
       url: https://www.facebook.com/profile.php?id=100008936071964&fref=ts
 
 - name: Tomáš Kourek
-  pic: 1
+  pic: 4
   position: Redaktor
   email: tomas@asperger.cz
 #  social:
@@ -41,7 +41,7 @@ people:
 #    url: url
 
 - name: Adam Naicler
-  pic: 1
+  pic: 4
   position: Moderátor
   email: adam@asperger.cz
 
