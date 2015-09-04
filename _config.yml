@@ -6,6 +6,9 @@ title: asperger.cz
 email: info@asperger.cz
 description: ""
 
+author :
+  email: info@asperger.cz
+
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: fed136
