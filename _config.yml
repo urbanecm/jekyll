@@ -13,6 +13,7 @@ author :
 color:
   primary: fed136
   secondary: fec503  
+  secondary-dark: 333
 
 # Team names, titles and social links
 people:
